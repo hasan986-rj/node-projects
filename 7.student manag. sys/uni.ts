@@ -21,12 +21,6 @@ log("WELCOME.")
             choices:['',]
         }
 ])
-    
-
-
-
-
-log("hello")
 
 class Person {
     name:string;
